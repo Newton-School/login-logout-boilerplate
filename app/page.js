@@ -1,6 +1,11 @@
 import React from 'react'
 
 function Home() {
+
+  const reducer = (state, action) => {
+
+}
+  
   return (
     <div id="main">
       <section className='logout-section'>
